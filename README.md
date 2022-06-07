@@ -1,16 +1,16 @@
 # test_task
 Outvio test task 
 
-Part I: Data Analysis - technical assessment
-We have  3 data sets:
-Shipments
-Packages
-Products
+# Part I: Data Analysis - technical assessment
+# We have  3 data sets:
+# -Shipments
+# -Packages
+# -Products
 
-#
-Preapred Github repository which inluclude 
-Script (Python)
-README (Current document)
-Dependencies 
+
+# Preapred Github repository which inluclude 
+# -Script (Python)
+# -README (Current document)
+# -Dependencies 
 
 

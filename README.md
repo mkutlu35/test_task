@@ -8,7 +8,7 @@ Outvio test task
 # -Products
 
 
-# Preapred Github repository which inluclude 
+# Preapred Github repository which inluclude: 
 # -Script (Python)
 # -README (Current document)
 # -Dependencies 

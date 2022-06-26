@@ -1,4 +1,4 @@
-# test_task for Outvio
+# test_task
 
 
 # Part I: Data Analysis - technical assessment
